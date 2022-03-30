@@ -1,1 +1,1 @@
-web: heroku run dev
+web: heroku run npm run dev
