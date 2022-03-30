@@ -1,1 +1,1 @@
-web: vite
+web: heroku run dev
